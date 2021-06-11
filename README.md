@@ -1,9 +1,9 @@
 # Menos1
 Desenvolvedor Python, estudando C e Django
 
-#Objetivos:
+# Objetivos:
 - Ser o pika em python.
-- Um dia vou ser especialista em seegurança da info. Dattebayo!
+- Um dia vou ser especialista em segurança da info. Dattebayo!
 - Fazer uma api até o fim do ano...
 
 
